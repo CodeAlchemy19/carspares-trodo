@@ -1,0 +1,23 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^10.2.0",
+    "@opensearch-project/opensearch": "^3.5.1",
+    "dotenv": "^17.2.3",
+    "faker": "^6.6.6",
+    "minimist": "^1.2.8",
+    "nanoid": "^5.1.6",
+    "p-limit": "^3.1.0",
+    "pg": "^8.16.3",
+    "uuid": "^13.0.0"
+  }
+}

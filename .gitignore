@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+.next/
+dist/
+build/
+.medusa/
+
+# Environment files - NEVER COMMIT
+.env
+.env.local
+.env.*.local
+*.env
+
+# Logs
+*.log
+debug.log
+npm-debug.log*
+yarn-debug.log*
+
+# Temp files
+debug_status.txt
+investigate_output.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Turbo
+.turbo/
+
+# Cache
+.cache/
+
+# Data import files
+data/
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json

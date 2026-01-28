@@ -1,0 +1,59 @@
+﻿{
+  "_index" : "products_v1",
+  "_id" : "1ac5ace5-7f5d-4ed3-ae02-7a7736429b93",
+  "_version" : 1,
+  "_seq_no" : 177846,
+  "_primary_term" : 1,
+  "found" : true,
+  "_source" : {
+    "id" : "1ac5ace5-7f5d-4ed3-ae02-7a7736429b93",
+    "product_id" : "3fde1d7e-fb5d-4f36-aa98-bfb764977d87",
+    "title" : "Performance Bonnet and parts EIBACH HD",
+    "slug" : "performance-bonnet-and-parts-eibach-hd-3fde1d7e",
+    "description" : "High quality Performance Bonnet and parts EIBACH HD from EIBACH",
+    "sku" : "EIB-0852663",
+    "ean" : "4081379139406",
+    "mpn" : "EIB-0852663",
+    "brand" : "EIBACH",
+    "brand_slug" : "eibach",
+    "category" : "Bonnet and parts",
+    "category_slugs" : [
+      "bonnet-and-parts",
+      "car-body-and-interior",
+      "car-parts"
+    ],
+    "price" : 1.0590000000000002,
+    "currency" : "egp",
+    "vehicle_type_ids" : [
+      "643c1fdf-583a-4053-a198-ba68589638fb",
+      "c1b32aea-58b8-428d-9564-2079647d73a5",
+      "6e85c1b4-bdf0-4585-9914-7869efc3e6c5",
+      "653aef5f-45b0-4aaa-a8b9-2ef8461cd789",
+      "6cfe5c3f-e0f1-409c-a91f-159bd85cdb15",
+      "85e343be-50fd-4e9b-bbbb-a8ee6a4bd0f9",
+      "169fe12e-000e-4f8b-8b3b-61fcce206a7e",
+      "f0282194-fe3a-4f4b-acb8-69dac7d3be0b",
+      "537a7080-28ad-4774-920e-93433dabce18"
+    ],
+    "is_universal" : false,
+    "image_url" : null,
+    "in_stock" : true,
+    "stock_quantity" : 54,
+    "lead_time_days" : 2,
+    "popularity_score" : 0,
+    "created_at" : "2026-01-14T01:33:48.674Z",
+    "specifications" : {
+      "Color" : "Silver",
+      "Section" : "B",
+      "Material" : "Cast Iron",
+      "Length mm" : "94",
+      "Weight kg" : "0.8",
+      "Fitting Position" : "Front",
+      "Outer Diameter mm" : "200",
+      "Overall Length mm" : "12",
+      "Packaging width mm" : "107",
+      "Packaging length mm" : "65"
+    }
+  }
+}
+
